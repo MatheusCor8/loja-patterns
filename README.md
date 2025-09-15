@@ -1,1 +1,1 @@
-# ARQWEB2
+# loja-patterns
